@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"text","text":"**科学社会主义产生的历史条件 **","id":"3e239011edf06ccc","x":-342,"y":-41,"width":322,"height":81},
+		{"id":"d9dbfb48e355169b","x":240,"y":-503,"width":250,"height":60,"type":"text","text":"<big>历史条件<big>"},
+		{"id":"23be3e28fee3069e","x":680,"y":-680,"width":220,"height":87,"type":"text","text":"<big>空想社会主义<big>"},
+		{"id":"95c33438e01f28d4","x":680,"y":-503,"width":320,"height":103,"type":"text","text":"<big>空想社会主义的局限性"},
+		{"id":"e62d3ecb31a53791","x":680,"y":-280,"width":400,"height":80,"type":"text","text":"<big>资本主义的发展和工人运动的兴起"},
+		{"id":"00ae6e0be79ed06a","x":165,"y":-10,"width":400,"height":90,"type":"text","text":"<big>科学社会主义的创立（理论基础）"},
+		{"id":"c3f58d20300fd6bc","x":680,"y":-86,"width":169,"height":76,"type":"text","text":"<big>唯物史观"},
+		{"id":"25133a9a21040529","x":680,"y":120,"width":220,"height":80,"type":"text","text":"<big>剩余价值学说"},
+		{"id":"a972fac6120368bd","x":215,"y":360,"width":275,"height":120,"type":"text","text":"<big><center>诞生的标志"},
+		{"id":"813f9f2e5d928b8f","x":240,"y":720,"width":280,"height":120,"type":"text","text":"<center><big>科学社会主义的实践（从一国到多国）"},
+		{"id":"e975f739c4defbb5","x":680,"y":375,"width":220,"height":90,"type":"text","text":"<big >《共产党宣言》"},
+		{"id":"b3a59f0d8b38b551","x":665,"y":750,"width":250,"height":60,"type":"text","text":"<big>俄国十月革命"}
+	],
+	"edges":[
+		{"id":"0805dc0c24f6ea5a","fromNode":"3e239011edf06ccc","fromSide":"right","toNode":"d9dbfb48e355169b","toSide":"left"},
+		{"id":"d87fecead7aca0b5","fromNode":"d9dbfb48e355169b","fromSide":"right","toNode":"23be3e28fee3069e","toSide":"left"},
+		{"id":"1bef57b250b0e06f","fromNode":"d9dbfb48e355169b","fromSide":"right","toNode":"95c33438e01f28d4","toSide":"left"},
+		{"id":"22630ca9d805c892","fromNode":"d9dbfb48e355169b","fromSide":"right","toNode":"e62d3ecb31a53791","toSide":"left"},
+		{"id":"2e1b93dee1375f1d","fromNode":"3e239011edf06ccc","fromSide":"right","toNode":"00ae6e0be79ed06a","toSide":"left"},
+		{"id":"1e8cb292164c94da","fromNode":"00ae6e0be79ed06a","fromSide":"right","toNode":"c3f58d20300fd6bc","toSide":"left"},
+		{"id":"0f500d6dbcabe95d","fromNode":"00ae6e0be79ed06a","fromSide":"right","toNode":"25133a9a21040529","toSide":"left"},
+		{"id":"81d323441e4ce9d2","fromNode":"3e239011edf06ccc","fromSide":"right","toNode":"a972fac6120368bd","toSide":"left"},
+		{"id":"dfbfbd59e35fd5ef","fromNode":"a972fac6120368bd","fromSide":"right","toNode":"e975f739c4defbb5","toSide":"left"},
+		{"id":"828bdd382cf58243","fromNode":"3e239011edf06ccc","fromSide":"right","toNode":"813f9f2e5d928b8f","toSide":"left"},
+		{"id":"067d1103043dd925","fromNode":"813f9f2e5d928b8f","fromSide":"right","toNode":"b3a59f0d8b38b551","toSide":"left"}
+	]
+}
